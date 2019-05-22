@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.deps.json
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.runtimeconfig.json
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.dll
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.AssemblyInfo.cs
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.pdb
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.dll
+C:\Users\ACER\source\repos\TaPboApp\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.pdb
